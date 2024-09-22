@@ -1,0 +1,6 @@
+@HTML_dashboard_HostAddress = http://localhost:5228
+
+GET {{HTML_dashboard_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
